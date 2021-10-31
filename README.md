@@ -1,5 +1,13 @@
-### Hi EVERYONE!
+### Hi there 👋, I'm Anas Braim
+#### Front-End Development 
+![Front-End Development ](https://pbs.twimg.com/profile_banners/1372180056739561478/1635721578/600x200)
 
-### I'm Anas from Morocco, and I have experience in Development & Design. I can create a user interface website design or complete landing pages, as well as work using programming languages like HTML, CSS, JavaSript, and Bootstrap , also I love designing a branding website using Adobe XD or Adobe Photoshop. You can check my Linkedin for know more about me https://www.linkedin.com/in/anas1braim/.
+I'm Anas from Morocco, and I have experience in Development & Design. I can create a user interface website design or complete landing pages, as well as work using programming languages like HTML, CSS, JavaSript, and Bootstrap, also I love designing a branding website using Adobe XD or Adobe Photoshop. You can check my Linkedin for know more about me https://www.linkedin.com/in/anas1braim/.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anas1braim)](https://github.com/anuraghazra/github-readme-stats)
+Skills: HTML / CSS / JS / Adobe Photshop / Adobe XD
+
+- 🔭 I’m currently working on this page. 
+
+
+
+
