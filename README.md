@@ -10,6 +10,7 @@ Skills: HTML / CSS / JS / Adobe Photshop / Adobe XD
 - 🌱 I’m currently learning Data science 
 - 💬 Ask me about Web & UI Development 
 - 💻 Learn more about me on my Website 
+- 🔨 I work at a new branding & websites
 
 # My Favorites Editors
 - ⭐ Adobe Photshop CC 2021
