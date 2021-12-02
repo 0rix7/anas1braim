@@ -1,5 +1,5 @@
 
-![Front-End Development ](https://pbs.twimg.com/profile_banners/1372180056739561478/1635721578/600x200)
+![Front-End Development ](https://pbs.twimg.com/profile_banners/1372180056739561478/1638483513/600x200)
 
 # Introduction 
 Hello My name is Anas from Morocco, and I have experience in Development & Design. I can create a user interface website design or complete landing pages, as well I work using programming languages like HTML, CSS, JavaSript, and Bootstrap, also I love designing a branding website using Adobe XD or Adobe Photoshop. 
@@ -20,7 +20,7 @@ Skills: HTML / CSS / JS / Adobe Photshop / Adobe XD
 * 🚀 Website  : https://anasbraim.netlify.app/
 * 📨 Twitter  : https://twitter.com/anas1braim
 * 👑 DEV.TO   : https://dev.to/anas1braim
-* ⭐ Linkedin : https://www.linkedin.com/in/anas1braim/*
+* ⭐ Linkedin : https://www.linkedin.com/in/anas1braim/
 
 ### Contact me On 📨 Discord : (Anas Braim#9837)
 
