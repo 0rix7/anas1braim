@@ -14,6 +14,7 @@ Skills: HTML / CSS / JS / Adobe Photshop / Adobe XD
 
 # My Favorites Editors
 - ⭐ Adobe Photshop CC 2021
+- ⭐ Sublime Text 3
 - ⭐ Visual Studio Code 
 - ⭐ Camtasia Studio 9
 
