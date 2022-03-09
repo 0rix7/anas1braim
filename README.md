@@ -2,7 +2,7 @@
 ![Front-End Development ](https://pbs.twimg.com/profile_banners/1372180056739561478/1646825391/600x200)
 
 # Introduction 
-Hello everyone! My name is Anas from Morocco, and I have experience in Development & Design. I can create a user interface website design or complete landing pages, as well I work using programming languages like HTML, CSS, JavaSript, and some libraries like Bootstrap. 
+Hello everyone! My name is Anas from Morocco, and I have experience in Development & Design. I can create a user interface website design or complete landing pages, as well I work using programming languages like HTML, CSS, JavaSript, and Bootstrap. 
 
 Skills: HTML / CSS / JS / Adobe Photshop 
 
